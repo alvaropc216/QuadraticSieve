@@ -2,7 +2,7 @@ import numpy as np
 import math
 
 """
-Sieve(n) provides a list called primes with all the prime numbers up to and
+Sieve(n) provides a list called primes with all the prime numbers up to but not
 including n
 input: integer n
 output: list
